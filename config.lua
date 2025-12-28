@@ -1,6 +1,6 @@
 -- This is server sided dont worry about your webhook getting leaked
 Config = {
-    webhook = 'https://discord.com/api/webhooks/1416397913457823796/bn9hlXZeKsk5g2nhcm_SfuuocZrhb_KDLC3LxhYKNHkTG0L0r4gvmOR7-fdQYGe7U0q3',
+    webhook = 'CHANGE_ME',
 
     packages = {
         ---@param source integer
